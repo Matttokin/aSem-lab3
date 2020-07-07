@@ -1,0 +1,86 @@
+F:\Users\MrTokin\source\repos\aSem lab1\aSem lab1\bin\Debug\aSem lab1.exe.config
+F:\Users\MrTokin\source\repos\aSem lab1\aSem lab1\bin\Debug\aSem lab1.exe
+F:\Users\MrTokin\source\repos\aSem lab1\aSem lab1\bin\Debug\aSem lab1.pdb
+F:\Users\MrTokin\source\repos\aSem lab1\aSem lab1\bin\Debug\Oracle.ManagedDataAccess.dll
+F:\Users\MrTokin\source\repos\aSem lab1\aSem lab1\obj\Debug\aSem lab1.csprojAssemblyReference.cache
+F:\Users\MrTokin\source\repos\aSem lab1\aSem lab1\obj\Debug\aSem_lab1.Form1.resources
+F:\Users\MrTokin\source\repos\aSem lab1\aSem lab1\obj\Debug\aSem_lab1.Properties.Resources.resources
+F:\Users\MrTokin\source\repos\aSem lab1\aSem lab1\obj\Debug\aSem_lab1.register.resources
+F:\Users\MrTokin\source\repos\aSem lab1\aSem lab1\obj\Debug\aSem lab1.csproj.GenerateResource.cache
+F:\Users\MrTokin\source\repos\aSem lab1\aSem lab1\obj\Debug\aSem lab1.csproj.CoreCompileInputs.cache
+F:\Users\MrTokin\source\repos\aSem lab1\aSem lab1\obj\Debug\aSem lab1.csproj.CopyComplete
+F:\Users\MrTokin\source\repos\aSem lab1\aSem lab1\obj\Debug\aSem lab1.exe
+F:\Users\MrTokin\source\repos\aSem lab1\aSem lab1\obj\Debug\aSem lab1.pdb
+F:\Users\MrTokin\source\repos\aSem lab1\aSem lab1\obj\Debug\aSem_lab1.auth.resources
+C:\Users\Валерий\Documents\GitHub\aSem-lab1\aSem lab1\obj\Debug\aSem lab1.csprojAssemblyReference.cache
+C:\Users\Валерий\Documents\GitHub\aSem-lab1\aSem lab1\obj\Debug\aSem_lab1.auth.resources
+C:\Users\Валерий\Documents\GitHub\aSem-lab1\aSem lab1\obj\Debug\aSem_lab1.Form1.resources
+C:\Users\Валерий\Documents\GitHub\aSem-lab1\aSem lab1\obj\Debug\aSem_lab1.Properties.Resources.resources
+C:\Users\Валерий\Documents\GitHub\aSem-lab1\aSem lab1\obj\Debug\aSem_lab1.PUNKTLIST.resources
+C:\Users\Валерий\Documents\GitHub\aSem-lab1\aSem lab1\obj\Debug\aSem_lab1.register.resources
+C:\Users\Валерий\Documents\GitHub\aSem-lab1\aSem lab1\obj\Debug\aSem lab1.csproj.GenerateResource.cache
+C:\Users\Валерий\Documents\GitHub\aSem-lab1\aSem lab1\obj\Debug\aSem lab1.csproj.CoreCompileInputs.cache
+C:\Users\Валерий\Documents\GitHub\aSem-lab1\aSem lab1\obj\Debug\aSem lab1.exe
+C:\Users\Валерий\Documents\GitHub\aSem-lab1\aSem lab1\obj\Debug\aSem lab1.pdb
+C:\Users\Валерий\Documents\GitHub\aSem-lab1\aSem lab1\bin\Debug\aSem lab1.exe.config
+C:\Users\Валерий\Documents\GitHub\aSem-lab1\aSem lab1\bin\Debug\aSem lab1.exe
+C:\Users\Валерий\Documents\GitHub\aSem-lab1\aSem lab1\bin\Debug\aSem lab1.pdb
+C:\Users\Валерий\Documents\GitHub\aSem-lab1\aSem lab1\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Валерий\Documents\GitHub\aSem-lab1\aSem lab1\obj\Debug\aSem lab1.csproj.CopyComplete
+C:\Users\Валерий\Documents\GitHub\aSem-lab1\aSem lab1\obj\Debug\aSem_lab1.TOVARLIST.resources
+C:\Users\Валерий\Documents\GitHub\aSem-lab1\aSem lab1\obj\Debug\aSem_lab1.TYPEDOSTAVKALIST.resources
+C:\Users\Валерий\Documents\GitHub\aSem-lab1\aSem lab1\obj\Debug\aSem_lab1.LISTTABLES.resources
+C:\Users\Валерий\Documents\GitHub\aSem-lab1\aSem lab1\obj\Debug\aSem_lab1.MATRIXL.resources
+C:\Users\Валерий\Documents\GitHub\aSem-lab1\aSem lab1\obj\Debug\aSem_lab1.TYPETOVARLIST.resources
+C:\Users\Валерий\Documents\GitHub\aSem-lab1\aSem lab1\obj\Debug\aSem_lab1.USERLIST.resources
+C:\Users\Валерий\Documents\GitHub\aSem-lab1\aSem lab1\obj\Debug\aSem_lab1.ZAKAZLIST.resources
+D:\Загрузки\aSem-lab3\aSem lab1\bin\Debug\aSem lab1.exe.config
+D:\Загрузки\aSem-lab3\aSem lab1\bin\Debug\aSem lab1.exe
+D:\Загрузки\aSem-lab3\aSem lab1\bin\Debug\aSem lab1.pdb
+D:\Загрузки\aSem-lab3\aSem lab1\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Загрузки\aSem-lab3\aSem lab1\obj\Debug\aSem lab1.csprojAssemblyReference.cache
+D:\Загрузки\aSem-lab3\aSem lab1\obj\Debug\aSem_lab1.auth.resources
+D:\Загрузки\aSem-lab3\aSem lab1\obj\Debug\aSem_lab1.Form1.resources
+D:\Загрузки\aSem-lab3\aSem lab1\obj\Debug\aSem_lab1.LISTTABLES.resources
+D:\Загрузки\aSem-lab3\aSem lab1\obj\Debug\aSem_lab1.MATRIXL.resources
+D:\Загрузки\aSem-lab3\aSem lab1\obj\Debug\aSem_lab1.Properties.Resources.resources
+D:\Загрузки\aSem-lab3\aSem lab1\obj\Debug\aSem_lab1.PUNKTLIST.resources
+D:\Загрузки\aSem-lab3\aSem lab1\obj\Debug\aSem_lab1.register.resources
+D:\Загрузки\aSem-lab3\aSem lab1\obj\Debug\aSem_lab1.ROLELIST.resources
+D:\Загрузки\aSem-lab3\aSem lab1\obj\Debug\aSem_lab1.TOVARLIST.resources
+D:\Загрузки\aSem-lab3\aSem lab1\obj\Debug\aSem_lab1.TYPEDOSTAVKALIST.resources
+D:\Загрузки\aSem-lab3\aSem lab1\obj\Debug\aSem_lab1.TYPETOVARLIST.resources
+D:\Загрузки\aSem-lab3\aSem lab1\obj\Debug\aSem_lab1.USERLIST.resources
+D:\Загрузки\aSem-lab3\aSem lab1\obj\Debug\aSem_lab1.USERROLE.resources
+D:\Загрузки\aSem-lab3\aSem lab1\obj\Debug\aSem_lab1.ZAKAZLIST.resources
+D:\Загрузки\aSem-lab3\aSem lab1\obj\Debug\aSem lab1.csproj.GenerateResource.cache
+D:\Загрузки\aSem-lab3\aSem lab1\obj\Debug\aSem lab1.csproj.CoreCompileInputs.cache
+D:\Загрузки\aSem-lab3\aSem lab1\obj\Debug\aSem lab1.csproj.CopyComplete
+D:\Загрузки\aSem-lab3\aSem lab1\obj\Debug\aSem lab1.exe
+D:\Загрузки\aSem-lab3\aSem lab1\obj\Debug\aSem lab1.pdb
+F:\Users\MrTokin\Desktop\aSem-lab3\aSem lab1\bin\Debug\aSem lab1.exe.config
+F:\Users\MrTokin\Desktop\aSem-lab3\aSem lab1\bin\Debug\aSem lab1.exe
+F:\Users\MrTokin\Desktop\aSem-lab3\aSem lab1\bin\Debug\aSem lab1.pdb
+F:\Users\MrTokin\Desktop\aSem-lab3\aSem lab1\bin\Debug\Oracle.ManagedDataAccess.dll
+F:\Users\MrTokin\Desktop\aSem-lab3\aSem lab1\obj\Debug\aSem lab1.csprojAssemblyReference.cache
+F:\Users\MrTokin\Desktop\aSem-lab3\aSem lab1\obj\Debug\aSem_lab1.auth.resources
+F:\Users\MrTokin\Desktop\aSem-lab3\aSem lab1\obj\Debug\aSem_lab1.Form1.resources
+F:\Users\MrTokin\Desktop\aSem-lab3\aSem lab1\obj\Debug\aSem_lab1.LISTTABLES.resources
+F:\Users\MrTokin\Desktop\aSem-lab3\aSem lab1\obj\Debug\aSem_lab1.MATRIXL.resources
+F:\Users\MrTokin\Desktop\aSem-lab3\aSem lab1\obj\Debug\aSem_lab1.Properties.Resources.resources
+F:\Users\MrTokin\Desktop\aSem-lab3\aSem lab1\obj\Debug\aSem_lab1.PUNKTLIST.resources
+F:\Users\MrTokin\Desktop\aSem-lab3\aSem lab1\obj\Debug\aSem_lab1.register.resources
+F:\Users\MrTokin\Desktop\aSem-lab3\aSem lab1\obj\Debug\aSem_lab1.ROLELIST.resources
+F:\Users\MrTokin\Desktop\aSem-lab3\aSem lab1\obj\Debug\aSem_lab1.TOVARLIST.resources
+F:\Users\MrTokin\Desktop\aSem-lab3\aSem lab1\obj\Debug\aSem_lab1.TYPEDOSTAVKALIST.resources
+F:\Users\MrTokin\Desktop\aSem-lab3\aSem lab1\obj\Debug\aSem_lab1.TYPETOVARLIST.resources
+F:\Users\MrTokin\Desktop\aSem-lab3\aSem lab1\obj\Debug\aSem_lab1.USERLIST.resources
+F:\Users\MrTokin\Desktop\aSem-lab3\aSem lab1\obj\Debug\aSem_lab1.USERROLE.resources
+F:\Users\MrTokin\Desktop\aSem-lab3\aSem lab1\obj\Debug\aSem_lab1.ZAKAZLIST.resources
+F:\Users\MrTokin\Desktop\aSem-lab3\aSem lab1\obj\Debug\aSem lab1.csproj.GenerateResource.cache
+F:\Users\MrTokin\Desktop\aSem-lab3\aSem lab1\obj\Debug\aSem lab1.csproj.CoreCompileInputs.cache
+F:\Users\MrTokin\Desktop\aSem-lab3\aSem lab1\obj\Debug\aSem lab1.csproj.CopyComplete
+F:\Users\MrTokin\Desktop\aSem-lab3\aSem lab1\obj\Debug\aSem lab1.exe
+F:\Users\MrTokin\Desktop\aSem-lab3\aSem lab1\obj\Debug\aSem lab1.pdb
+F:\Users\MrTokin\Desktop\aSem-lab3\aSem lab1\bin\Debug\Newtonsoft.Json.dll
+F:\Users\MrTokin\Desktop\aSem-lab3\aSem lab1\bin\Debug\Newtonsoft.Json.xml
